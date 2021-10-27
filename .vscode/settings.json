@@ -1,0 +1,28 @@
+{
+  "background.enabled": true,
+  "background.loop": false,
+  "background.useFront": false,
+  "background.useDefault": false,
+  "background.style": {
+    "content": "''",
+    "pointer-events": "none",
+    "position": "absolute",
+    "z-index": "99999",
+    "background-position": "center",
+    "background-size": "500px 500px",
+    "opacity": 0.2
+  },
+  "background.customImages": ["C:/Users/Admin/Desktop/ava-VSCode/among-us.png"],
+  "cSpell.words": [
+    "anhduoibn",
+    "chuyển",
+    "Giảm",
+    "Hiển",
+    "sampledata",
+    "sánh",
+    "Tăng",
+    "tensp",
+    "Thiệu",
+    "viên"
+  ]
+}
